@@ -1,8 +1,7 @@
 # Slohweb
 ---
 Bienvenue sur mon site, vous êtes les bienvenues
-?> **Ce site n'est peux être pas bien traduit**Merci de nous aidez à traduire](https://crowdin.com/project/slohweb). 
-
+> **ERREUR TRADUCTION**alors, veuillez vous rendre    [ICI](https://crowdin.com/project/slohweb)
 > VIDE... EN CONSTUCTION
 
-?> **ENGLISH**HERE](translate\en\index.md). 
+> **ENGLISH** [HERE](translate\en\index.md). 
