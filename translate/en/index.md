@@ -1,7 +1,8 @@
 # Slohweb
 ---
-Bienvenue sur mon site, vous êtes les bienvenues
-> **ERREUR TRADUCTION** alors, veuillez vous rendre    [ICI](https://crowdin.com/project/slohweb)
-> **VIDE... EN CONSTUCTION**
+Welcome to my website and welcome you
+> **ERROR OF TRADUCTION** then, please go    [HERE](https://crowdin.com/project/slohweb)
 
-> **FRENCH** [ICI](index.md). 
+ **VIDE... IN CONSTUCTION**
+
+> **FRENCH** [ici](translate/en/index.md). 
